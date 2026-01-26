@@ -14,7 +14,7 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 
 ## 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https://wa.me/55119" target="_blank">
+  <a href="https://wa.me/5511910334165" target="_blank">
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:thalitaaparecida700@gmail.com" target="_blank">
