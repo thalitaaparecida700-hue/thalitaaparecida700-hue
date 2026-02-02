@@ -20,9 +20,6 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
   <a href="mailto:thalitaaparecida700@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-    <img align="center" src="ttps://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 
