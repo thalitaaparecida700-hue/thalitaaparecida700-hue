@@ -49,8 +49,9 @@ Este é o meu espaço onde passo a maior parte do tempo, transformando imaginaç
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalitaaparecida700-hue&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaaparecida700-hue&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
+
 
 ---
